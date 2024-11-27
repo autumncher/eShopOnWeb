@@ -1,4 +1,6 @@
-﻿using System.Net.Mime;
+//20241127 test
+
+using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using Azure.Identity;
 using BlazorAdmin;
